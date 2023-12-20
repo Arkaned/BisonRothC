@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>GSOCmap1.5.0</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">154.4005279541</MDI>
+      <MDI key="STATISTICS_MEAN">73.508546468071</MDI>
+      <MDI key="STATISTICS_MINIMUM">15.516592025757</MDI>
+      <MDI key="STATISTICS_STDDEV">25.007947043693</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">51.58</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

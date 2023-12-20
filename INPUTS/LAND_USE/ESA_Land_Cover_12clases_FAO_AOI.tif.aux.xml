@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>ESACCI-LC-L4-LCCS-Map-300m-P1Y-2015-v2.0.7</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">11</MDI>
+      <MDI key="STATISTICS_MEAN">3.7179702243657</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.74538771229344</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">51.58</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
